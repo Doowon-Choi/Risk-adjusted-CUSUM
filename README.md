@@ -16,4 +16,4 @@ Risk-adjusted CUSUM chart to monitor improvement in the performance of surgeon (
 ![CUSUM2](https://user-images.githubusercontent.com/69023373/89116154-7eeda180-d456-11ea-94b7-dffa319bc9d6.png)
 
 # Reference
-Monitoring surgical performance using risk-adjusted cumulative sum charts (Biostatistics, 2000)
+Steiner, S. H., Cook, R. J., Farewell, V. T., & Treasure, T. (2000). Monitoring surgical performance using risk-adjusted cumulative sum charts. *Biostatistics*, 1(4), 441-452.
